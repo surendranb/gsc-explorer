@@ -1,0 +1,13 @@
+{
+  "site_url": "",
+  "date_range": {
+    "start": "2024-10-01",
+    "end": null
+  },
+  "import_filters": {
+    "min_impressions": 50,
+    "min_clicks": null,
+    "keyword_pattern": null
+  }
+}
+
