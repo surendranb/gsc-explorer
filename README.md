@@ -22,13 +22,11 @@ GSC Explorer is a lightweight, open-source Streamlit application that makes it e
 
 **Quick walkthrough of the setup and usage:**
 
-<video width="800" controls>
-  <source src="https://raw.githubusercontent.com/surendranb/gsc-explorer/main/assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag. 
-  <a href="https://www.youtube.com/watch?v=nCCzrRRMKso">Watch on YouTube instead</a>
-</video>
+[![GSC Explorer Demo](https://img.youtube.com/vi/nCCzrRRMKso/maxresdefault.jpg)](https://www.youtube.com/watch?v=nCCzrRRMKso)
 
-> 💡 **Note**: If the video doesn't load, [watch it on YouTube](https://www.youtube.com/watch?v=nCCzrRRMKso)
+*Click the thumbnail above to watch the demo on YouTube*
+
+> 💡 **Alternative**: [Direct link to video](https://www.youtube.com/watch?v=nCCzrRRMKso) | [Download video file](https://raw.githubusercontent.com/surendranb/gsc-explorer/main/assets/demo.mp4)
 
 ### Key Features
 
