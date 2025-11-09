@@ -49,11 +49,17 @@ GSC Explorer is a lightweight, open-source Streamlit application that makes it e
 
 ### Installation
 
-1. **Clone the repository:**
+1. **Get the code:**
+   
+   **Option A: Clone directly (recommended for using the tool):**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/gsc-explorer.git
+   git clone https://github.com/surendranb/gsc-explorer.git
    cd gsc-explorer
    ```
+   
+   **Option B: Fork first (if you want to contribute or customize):**
+   - Click "Fork" on GitHub to create your own copy
+   - Then clone your fork: `git clone https://github.com/YOUR_USERNAME/gsc-explorer.git`
 
 2. **Create a virtual environment (recommended):**
    ```bash
